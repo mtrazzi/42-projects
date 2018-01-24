@@ -1,0 +1,15 @@
+[submodule "corewar"]
+	path = corewar
+	url = https://github.com/mtrazzi/corewar
+[submodule "fillit"]
+	path = fillit
+	url = https://github.com/mtrazzi/fillit
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/mtrazzi/push_swap
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/mtrazzi/ft_printf
+[submodule "libft"]
+	path = libft
+	url = https://github.com/mtrazzi/libft
