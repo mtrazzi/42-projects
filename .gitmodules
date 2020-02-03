@@ -13,3 +13,6 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/mtrazzi/libft
+[submodule "lem-in"]
+	path = lem-in
+	url = https://github.com/mtrazzi/lem-in
