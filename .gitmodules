@@ -16,3 +16,12 @@
 [submodule "lem-in"]
 	path = lem-in
 	url = https://github.com/mtrazzi/lem-in
+[submodule "krpsim"]
+	path = krpsim
+	url = https://github.com/mtrazzi/krpsim
+[submodule "npuzzle"]
+	path = npuzzle
+	url = https://github.com/mtrazzi/npuzzle
+[submodule "gomoku"]
+	path = gomoku
+	url = https://github.com/mtrazzi/gomoku
